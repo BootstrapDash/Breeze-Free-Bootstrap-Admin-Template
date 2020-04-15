@@ -1,0 +1,39 @@
+/* Fonts */
+
+//PT_Sans
+@font-face {
+  font-family: "Rubik";
+  src: url("../fonts/rubik/Rubik-Light.eot");
+  src: url("../fonts/rubik/Rubik-Light.woff2") format("woff2"),
+    url("../fonts/rubik/Rubik-Light.woff") format("woff"),
+    url("../fonts/rubik/Rubik-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rubik";
+  src: url("../fonts/rubik/Rubik-Regular.eot");
+  src: url("../fonts/rubik/Rubik-Regular.woff2") format("woff2"),
+    url("../fonts/rubik/Rubik-Regular.woff") format("woff"),
+    url("../fonts/rubik/Rubik-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rubik";
+  src: url("../fonts/rubik/Rubik-Medium.eot");
+  src: url("../fonts/rubik/Rubik-Medium.woff2") format("woff2"),
+    url("../fonts/rubik/Rubik-Medium.woff") format("woff"),
+    url("../fonts/rubik/Rubik-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Rubik";
+  src: url("../fonts/rubik/Rubik-Bold.eot");
+  src: url("../fonts/rubik/Rubik-Bold.woff2") format("woff2"),
+    url("../fonts/rubik/Rubik-Bold.woff") format("woff"),
+    url("../fonts/rubik/Rubik-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
